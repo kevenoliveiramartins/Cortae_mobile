@@ -1,11 +1,8 @@
-import React, {
-  useState,
-} from "react";
+import React, {useState,} from "react";
 
 import Login from "./Screens/Login/Login";
 
-import SelecionarBarbearia from
-      "./Screens/SelecioneBarbearia/SelecioneBarbearia";
+import SelecionarBarbearia from "./Screens/SelecioneBarbearia/SelecioneBarbearia";
 
 
 export default function App() {
